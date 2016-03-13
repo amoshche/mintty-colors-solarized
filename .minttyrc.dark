@@ -24,3 +24,8 @@ Cyan=             42, 161, 152
 BoldCyan=        147, 161, 161
 White=           238, 232, 213
 BoldWhite=       253, 246, 227
+
+TabForegroundColour= 133, 153,   0
+TabBackgroundColour=   0,  43,  54
+TabAttentionColour=  220,  50,  47
+TabActiveColour=       7,  54,  66
