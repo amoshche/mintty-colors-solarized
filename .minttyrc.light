@@ -1,6 +1,6 @@
 BoldAsFont=           no
-Font=                 Consolas
-FontHeight=           11
+Font=                 DejaVu Sans Mono for Powerline
+FontHeight=           10
 FontSmoothing=        full
 Term=                 xterm-256color
 CursorType=           block
